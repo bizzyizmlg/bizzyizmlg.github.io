@@ -1,5 +1,6 @@
 body {
   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSefIvLHSI--bBdnWiIpMhbqrps4kAaGj3G3g&usqp=CAU");
+  background-size: cover;
 }
 p {
   color: black;
@@ -15,4 +16,13 @@ img {
   border: 7px solid white;
   border-radius: 20px;
 }
-  
+  #information {
+    text-align: center;
+    font-size: 15px;
+    color: red;
+}
+    #follow {
+      text-align: left;
+      font-size: 25px;
+      color: red;
+}

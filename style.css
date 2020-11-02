@@ -1,7 +1,8 @@
 body {
-  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSefIvLHSI--bBdnWiIpMhbqrps4kAaGj3G3g&usqp=CAU");
   text-align: center;
   border-style: solid;
+  border-image-source: url(metallic_background.jpg);
+  border-image-outset: 10px;
 }
 p {
   color: black;

@@ -8,9 +8,11 @@ p {
   font-size: 25px;
 }
 h1 {
-  color: red;
-  font-size: 25px;
-}
+  color: #00ff00;
+  font-size: 50px;
+  display:inline-block; 
+  margin-left: 40px;
+  }
 img {
   margin: 40px 0px 0px 0px;
   border: 7px solid white;

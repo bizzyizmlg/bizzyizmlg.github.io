@@ -1,6 +1,7 @@
 body {
   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSefIvLHSI--bBdnWiIpMhbqrps4kAaGj3G3g&usqp=CAU");
   text-align: center;
+  list-style-position: inside;
 }
 p {
   color: black;
@@ -8,6 +9,7 @@ p {
 }
 h1 {
   color: red;
+  font-size: 25px;
 }
 img {
   margin: 40px 0px 0px 0px;

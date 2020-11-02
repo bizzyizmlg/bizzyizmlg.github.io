@@ -3,6 +3,7 @@ body {
   border-style: solid;
   border-color: white;
   background-image: url(demoimage.jpg.jpg);
+  background-size: cover;
 }
 p {
   color: black;

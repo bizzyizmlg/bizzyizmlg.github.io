@@ -52,6 +52,7 @@ h2 {
 }
 .div2 {
   text-align: center;
+  color: white;
 }
 .div2 ul {
   display: inline-block;
@@ -61,7 +62,11 @@ h2 {
 }
 .div3 {
   text-align: center;
+  color: white;
+}
+.div3 ol {
+  display: inline-block;
 }
 .div3 ol li {
-  text-align: left;
+  text-align: center;
 }

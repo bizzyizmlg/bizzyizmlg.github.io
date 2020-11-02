@@ -61,13 +61,3 @@ h2 {
   text-align: left;
   color: white;
 }
-.div3 {
-  text-align: center;
-  color: white;
-}
-.div3 ol {
-  display: inline-block;
-}
-.div3 ol li {
-  text-align: center;
-}

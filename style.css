@@ -1,7 +1,6 @@
 body {
   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSefIvLHSI--bBdnWiIpMhbqrps4kAaGj3G3g&usqp=CAU");
   text-align: center;
-  list-style-position: inside;
   border-style: solid;
 }
 p {
@@ -28,7 +27,6 @@ img {
       color: red;
 }
 ul li{
-  text-align: center;
   list-style-position: inside;
   font-size: 20px;
 }

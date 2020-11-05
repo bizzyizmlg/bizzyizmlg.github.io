@@ -14,7 +14,7 @@ body {
 }
 p {
   color: white;
-  font-size: 35px;
+  font-size: 25px;
 }
 h1 {
   color: #8b0000;
@@ -47,6 +47,7 @@ h2 {
   color: white;
   text-align: left;
   display: inline-block;
+  font-size: 18px;
  }
 .div2 {
   text-align: center;
@@ -54,6 +55,7 @@ h2 {
 }
 .div2 ul {
   display: inline-block;
+  font-size: 18px;
 }
 .div2 ul li {
   text-align: left;

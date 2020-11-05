@@ -14,11 +14,11 @@ body {
 }
 p {
   color: white;
-  font-size: 25px;
+  font-size: 35px;
 }
 h1 {
   color: #8b0000;
-  font-size: 50px;
+  font-size: 90px;
   display: inline-block; 
   margin-left: 40px;
   }
@@ -41,6 +41,7 @@ img {
 h2 {
   color: white;
   text-decoration: underline;
+  font-size: 50px;
 }
 .div1 {
   color: white;
@@ -58,7 +59,6 @@ h2 {
   text-align: left;
   color: white;
 }
-/* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
   width: 33.33%;

@@ -38,6 +38,11 @@ img {
       text-align: center;
       display: inline-block;
 }
+  #custom {
+    font-size: 25px;
+    color: red;
+    text-align: center;
+}
 h2 {
   color: white;
   text-decoration: underline;

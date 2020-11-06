@@ -24,8 +24,10 @@ h1 {
   }
 img {
   margin: 40px 0px 0px 0px;
-  border: 7px solid white;
+  border: 7px solid red;
   border-radius: 20px;
+  color: red;
+  font-size: 25px;
 }
   #information {
     font-size: 15px;
@@ -72,8 +74,4 @@ h2 {
   content: "";
   clear: both;
   display: table;
-}
-figcaption {
-  color: white;
-  font-size: 25px;
 }

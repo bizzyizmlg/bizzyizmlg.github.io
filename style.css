@@ -75,3 +75,9 @@ h2 {
   clear: both;
   display: table;
 }
+#picture1 {
+  float: left;
+}
+#picture2 {
+  float: right;
+}

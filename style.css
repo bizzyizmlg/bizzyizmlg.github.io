@@ -66,6 +66,8 @@ h2 {
    display: flex;
    flex-wrap: wrap;
    justify-content: center;
+   color: red;
+   font-size: 22px;
 }
 .gallery-item {
   margin: 20px;

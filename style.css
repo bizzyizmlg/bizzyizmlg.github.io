@@ -61,3 +61,12 @@ h2 {
   text-align: left;
   color: white;
 }
+ .gallery {
+   margin-top: 20px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.gallery-item {
+  margin: 20px;
+}

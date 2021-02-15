@@ -10,7 +10,7 @@ body {
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  margin: 40px 0px 0px 0px;
+  margin: auto;
 }
 p {
   color: white;

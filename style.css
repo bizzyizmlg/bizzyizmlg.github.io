@@ -1,30 +1,25 @@
 body {
-    text-align: center;
+   
     background-image: linear-gradient(to right, rgb(11, 167, 167), rgb(8, 54, 180));
     background-repeat: no-repeat;
     width: 100%;
     height:100%;
-    background-position: center center;
+    padding: 25px 50px;
     border: 15px solid rgb(28, 3, 97);
     -moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     margin: auto;
+   
   }
   p {
     color: white;
     font-size: 20px;
     margin-left: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif
   }
-  h1 {
-    
-    color: #8b0000;
-    font-size: 90px;
-    display: inline-block; 
-    margin-left: 40px;
-    }
+ 
   img {
         border-radius: 25px;
         width: 250px;
@@ -32,16 +27,11 @@ body {
    
   }
    
-      #follow {
-        font-size: 25px;
-        color: red;
-        margin-left: 20px;
-        display: inline-block;
-  }
+  
   h2 {
     color: white;
     text-decoration: underline;
-    font-size: 50px;
+    font-size: 40px;
     margin-left: 20px;
   }
   .div1 {
@@ -106,12 +96,35 @@ body {
     .github {
         position: absolute;
         top: 30px;
-        right: 50%;
+        right: 45%;
         color: rgb(236, 236, 236);
     }
-    [title~="selfimage"] {
-        border: 5px solid white;
-        position: absolute;
-        top: 800px;
-        right: 50px;
-    }
+  
+    h1 {
+    
+        color: #8b0000;
+        font-size: 90px;
+        display: inline-block;
+        position: absolute; 
+        margin-left: 40px;
+        }
+        .email {
+            text-align: right;
+            font-style: italic;
+           
+        }
+        #follow {
+            font-size: 18px;
+            color: white;
+           }
+           [title~="selfimage"] {
+            border: 5px solid white;
+            position: absolute;
+            top: 600px;
+            right: 50px;
+        }
+        .picture {
+            margin-left: 550px;
+            margin-top: 40px;
+        }
+        

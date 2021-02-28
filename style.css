@@ -1,11 +1,11 @@
 body {
     text-align: center;
-    background-image: url(demoimage.jpg.jpg);
+    background-image: linear-gradient(to right, rgb(11, 167, 167), rgb(8, 54, 180));
     background-repeat: no-repeat;
     width: 100%;
     height:100%;
     background-position: center center;
-    border: 15px solid rgb(172, 15, 15);
+    border: 15px solid rgb(28, 3, 97);
     -moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -14,19 +14,22 @@ body {
   }
   p {
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
   }
   h1 {
+    
     color: #8b0000;
     font-size: 90px;
     display: inline-block; 
     margin-left: 40px;
     }
   img {
-    margin: 40px 0px 0px 0px;
-    border: 5px solid white;
-    border-radius: 20px;
+        border-radius: 25px;
+        width: 250px;
+        height: 200px;
+   
   }
    
       #follow {
@@ -56,20 +59,10 @@ body {
     font-size: 18px;
   }
 
-   .gallery {
-     margin-top: 20px;
-     display: flex;
-     flex-wrap: wrap;
-     justify-content: center;
-     margin-left: 20px;
-  }
-  .gallery-item {
-    margin-left: 20px;
-    color: red;
-    font-size: 25px;
-  }
+
   a:link {
     text-decoration: none;
+    color: red;
   }
   a:visited {
    text-decoration: none; 
@@ -86,13 +79,39 @@ body {
   }
   li {
       color: white;
+      font-size: 18px;
       
   }
   ul {
     margin-left: 20px;
+    font-size: 18px;
   }
   h3 {
-      border-bottom-style: solid;
-      border-bottom-width: 4px;
-      border-bottom-color: white;
-  }
+     text-decoration: underline;  
+     font-family:Arial, Helvetica, sans-serif;
+    }
+    a {
+        box-shadow: 2px 2px 1px grey;
+    }
+    [title~="pcimages"] {
+        border: 5px solid white;
+
+    }
+    .twitch {
+        position: absolute;
+        top: 30px;
+        right: 50px;
+        color: white;
+    }
+    .github {
+        position: absolute;
+        top: 30px;
+        right: 50%;
+        color: rgb(236, 236, 236);
+    }
+    [title~="selfimage"] {
+        border: 5px solid white;
+        position: absolute;
+        top: 800px;
+        right: 50px;
+    }
